@@ -1,8 +1,8 @@
-$number1 = document.getElementById("text1").value;
+const $number1 = document.getElementById("text").value;
 var count = 0;
 
 function generator() {
-    $number1 = document.getElementById("text1").value;
+    $number1 = document.getElementById("text").value;
     for (var i = 0; i < $number1; i++) {
         count++;
         btn = document.createElement("button");
