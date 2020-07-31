@@ -1,0 +1,16 @@
+#text1 {
+    width: 100px;
+    height: 15px;
+}
+
+#btn1 {
+    width: 110px;
+    height: 130px;
+    margin: 70px;
+}
+
+#new {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
