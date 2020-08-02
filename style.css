@@ -8,3 +8,9 @@
   height: 130px;
   margin: 70px;
 }
+
+#new {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
